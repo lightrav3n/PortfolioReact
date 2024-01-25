@@ -29,7 +29,7 @@ const Homepage = () => {
             </li>
           </ul>
           <ul>
-            <li className="name">David Alex</li>
+            <li className="name">David Alexx</li>
           </ul>
           <ul>
             <li>
